@@ -1,0 +1,16 @@
+InicioGrupo 
+ Definir prom, edad Como Entero
+ Escribir "Ingresa el total de personas"
+ Leer total
+ x = 1
+ prom = 0
+ Mientras x <= total Hacer
+ Escribir "Ingresar las edades"
+ leer edad 
+ prom = prom + 0<=25
+ prom = prom + 02=>5
+     x = x + 1
+ FinMientras 
+ Escribir "El promedio de edades menores a 25 años es: ",prom
+ Escribir "El promedio de edades mayores a 25 años es: ",prom
+FinGrupo 
